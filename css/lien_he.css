@@ -1,0 +1,32 @@
+
+.contact1 {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-left:10px;
+}
+.contact1 h4{
+   padding: 10px;
+    padding-left: 0;
+    font-size: 26px;
+    color: #f00;
+}
+.contact2 h4{
+    padding: 10px;
+    padding-left: 0;
+    font-size: 26px;
+    color: #f00;
+}
+.contact2{
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left:10px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.contact2 p{
+  margin:10px 0;
+}
+.contact2 span{
+  font-weight: bold;
+}
